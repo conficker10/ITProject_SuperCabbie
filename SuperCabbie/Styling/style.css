@@ -1,0 +1,74 @@
+
+.button {
+  background-color: #e7e7e7; color: black;
+  border: none;
+  padding: 10px 32px;
+  text-align: center;
+  border-radius: 12px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  transition-duration: 0.4s;
+}
+.button:hover {
+  background-color: #E50914;
+  color: white;
+}
+form {
+    display: inline-block;
+}
+h1 {
+    color: #E50914;
+    font-size: 50px;
+    font-family: "museo-sans", Arial, Verdana;
+    text-transform: uppercase;
+    letter-spacing: -5px;
+	margin: 50px 0 50px 0;
+}
+h2 {
+    color: #fff;
+    font-size: 25px;
+    font-family: "museo-sans", Arial, Verdana;
+    letter-spacing: 3px;
+	margin: 50px 0 30px 0;
+}
+label {
+    color: #fff;
+    font-size: 18px;
+    font-family: "museo-sans", Arial, Verdana;
+    letter-spacing: 1px;
+}
+input {
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 20px;
+  background-color: white;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+}
+
+select { 
+                width: 50%; 
+                height: 5%;  
+                cursor: pointer; 
+                border:2px solid #ccc; 
+                border-radius:4px;  
+				font-size: 18px;
+            }
+
+a:link {
+  color: white;
+}
+a:visited {
+  color: white;
+}
+a:hover {
+  color: red;
+}
+fieldset {
+  background-color: grey;
+  width:400px;
+  opacity: 0.93;
+}
+

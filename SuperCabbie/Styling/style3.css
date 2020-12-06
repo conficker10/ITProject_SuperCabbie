@@ -1,0 +1,40 @@
+.button {
+  background-color: #E50914; color: white;
+  border: none;
+  padding: 6px 12px;
+  text-align: center;
+  border-radius: 12px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+}.l1{
+	 color: white;
+    font-size: 20px;
+    font-family: "museo-sans", Arial, Verdana;
+    letter-spacing: 1px;
+}
+label {
+    color: black;
+    font-size: 20px;
+    font-family: "museo-sans", Arial, Verdana;
+    letter-spacing: 1px;
+}
+input {
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  font-size: 20px;
+  background-color: white;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+}
+
+select { 
+                width: 50%; 
+                height: 5%;  
+                cursor: pointer; 
+                border:2px solid #ccc; 
+                border-radius:4px;  
+				font-size: 18px;
+            }
