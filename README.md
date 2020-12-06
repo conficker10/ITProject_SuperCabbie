@@ -65,9 +65,9 @@ This may lead to some errors and website maynot work as needed.
 
 ![Admin Home Page](Screenshots/myBooking.PNG)
 
-![Admin Home Page](Screenshots/confirm.PNG)
-
 ![Admin Home Page](Screenshots/checkout.PNG)
+
+![Admin Home Page](Screenshots/confirm.PNG)
 
 ![Admin Home Page](Screenshots/register.PNG)
 
