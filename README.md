@@ -57,21 +57,12 @@ This may lead to some errors and website maynot work as needed.
 # Screenshots:
 ![Login Page](Screenshots/login.PNG)
 
-![Admin Home Page](Screenshots/adminHome.PNG)
+![Home Page](Screenshots/userHome.PNG)
 
-![Admin Home Page](Screenshots/userHome.PNG)
+![My Postings](Screenshots/myPosting.PNG)
 
-![Admin Home Page](Screenshots/myPosting.PNG)
+![Check Out](Screenshots/checkout.PNG)
 
-![Admin Home Page](Screenshots/myBooking.PNG)
-
-![Admin Home Page](Screenshots/checkout.PNG)
-
-![Admin Home Page](Screenshots/confirm.PNG)
-
-![Admin Home Page](Screenshots/register.PNG)
-
-![Admin Home Page](Screenshots/forgot.PNG)
 
 If further some issue/query exists, please mail it to me at:
 				abhinavabhi1012@gmail.com
