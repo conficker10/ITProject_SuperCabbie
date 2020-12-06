@@ -55,7 +55,7 @@ This may lead to some errors and website maynot work as needed.
 
 
 # Screenshots:
-![Login Page](Screenshots/login.png)
+![Login Page](Screenshots/login.PNG)
 
 If further some issue/query exists, please mail it to me at:
 				abhinavabhi1012@gmail.com
