@@ -53,6 +53,10 @@ Apart from that the following features are Provided:
 Apart from 'login.php', 'register.php' and 'forgot.php' avoid trying to open any other page using direct link i.e. without logging-in.
 This may lead to some errors and website maynot work as needed.
 
+
+# Screenshots:
+![Login Page](Screenshots/login.png)
+
 If further some issue/query exists, please mail it to me at:
 				abhinavabhi1012@gmail.com
 				
