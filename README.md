@@ -56,6 +56,7 @@ This may lead to some errors and website maynot work as needed.
 
 # Screenshots:
 ![Login Page](Screenshots/login.PNG)
+
 ![Admin Home Page](Screenshots/adminHome.PNG)
 
 If further some issue/query exists, please mail it to me at:
