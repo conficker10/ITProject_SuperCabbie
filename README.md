@@ -14,7 +14,7 @@ User can also Post an Ad to Rent their Car as well as can book a Car on Rent.
 It is not neccessary to create and import the above Database. 
 The code can automatically create Database and Table on First Use (if already not created).
 Also, a pre-defined Admin Email-ID and Password will be generated with login credentials given below.
-In such case, however no User ID will not be generated. So, create a user using Register Page of Website.
+In such case, however no User ID will be generated. So, create a user using Register Page of Website.
 
 # Execution
 Visit http://localhost/SuperCabbie/login.php in your Browser.
@@ -32,7 +32,7 @@ User can create their own account using Register Page.
 Can Use the below defined User-ID:
 ## User:
 	Email-ID: dummy@gmail.com
-	Password: abc123
+	Password: ab12
 	Mobile No.: 9876543211 (Will be used only in case of Forgot Password)	
 
 
