@@ -5,7 +5,7 @@ A Car Renting Website to Rent Car.
 User can also Post an Ad to Rent their Car as well as can book a Car on Rent.
 
 # Downloading and Installation Steps:
-1. Download the zip and extract SuperCabbie directory to WAMP64/WWW(for WAMP) or Similar respective folders from XAMP, LAMP or any other.
+1. Download the zip and extract SuperCabbie directory to WAMP64/WWW(for WAMP) or Similar respective folders for XAMP, LAMP or any other.
 2. Run WAMP Server
 3. Open PHPMyAdmin (http://localhost/phpmyadmin)
 3. Create Database named <b>carrentdb</b> and import carrentdb.sql from the Database directory. (Recommended)
