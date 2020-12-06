@@ -16,6 +16,8 @@ The code can automatically create Database and Table on First Use (if already no
 Also, a pre-defined Admin Email-ID and Password will be generated with login credentials given below.
 In such case, however no User ID will not be generated. So, create a user using Register Page of Website.
 
+# Execution
+Visit http://localhost/SuperCabbie/login.php in your Browser.
 
 # Login Details:
 
@@ -38,13 +40,13 @@ Can Use the below defined User-ID:
 Basic Functionality like Login, Register, Forget are Provided.
 Apart from that the following features are Provided:
 
-User Features:
-	1. Rent a Car
-	2. Book a Car on Rent
-	3. View 'My Postings' i.e. Posting done by that user.
-	4. View 'My Bookings' i.e. Car Booked on Rent by that user.
+## User Features:
+1. Rent a Car.
+2. Book a Car on Rent.
+3. View 'My Postings' i.e. Posting done by that user.
+4. View 'My Bookings' i.e. Car Booked on Rent by that user.
 	
-Admin Features:
+## Admin Features:
 	Admin has all the functionality as of a simple User but also has privelged access to delete any Posting done by users.
 	
 # Note:
